@@ -1,6 +1,5 @@
 ### 1년차 주니어 개발자 👋
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayhyang&langs_count=8)](https://github.com/hayhyang/github-readme-stats)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000" />
