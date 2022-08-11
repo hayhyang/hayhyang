@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-<img src="https://img.shields.io/badge/Javascript-EE9C3C?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Typescript-1075BE?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-5EB8EB?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-F3411A?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-#000000?style=flat-square&logo=Python&logoColor=white" />
 
 - 🔭 I’m currently working on Gollala
 - 🌱 I’m currently learning CS
