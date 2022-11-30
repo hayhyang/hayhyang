@@ -10,4 +10,5 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000" />
 <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=Next.js&logoColor=000000" />
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white" />
+  
 </div>
