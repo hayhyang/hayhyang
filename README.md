@@ -4,15 +4,6 @@
   
 [👉🏻 저에 대해 궁금하시다면 클릭해주세요 👈🏻](https://accurate-vest-c23.notion.site/a281aeaaf21c4c8e86db0ac110dcf1a5)
 
-#### 🌞 저녁형 인간은 아니지만 커밋은 주로 늦은 시간에 합니다
-
-```text
-🌞 Morning     2 commits  ▍░░░░░░░░░░░░░░░░░░░░   2.4%
-🌆 Daytime    27 commits  ██████▋░░░░░░░░░░░░░░  31.8%
-🌃 Evening    51 commits  ████████████▌░░░░░░░░  60.0%
-🌙 Night       5 commits  █▏░░░░░░░░░░░░░░░░░░░   5.9%
-```
-
 #### ⚒ Front-end Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
