@@ -1,6 +1,4 @@
 <div align="center">
-  
-[👉🏻 저에 대해 궁금하시다면 클릭해주세요 👈🏻](https://accurate-vest-c23.notion.site/a281aeaaf21c4c8e86db0ac110dcf1a5)
 
 #### ⚒ Front-end Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000" />
